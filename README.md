@@ -57,10 +57,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
