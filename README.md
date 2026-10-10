@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0704-binary-search) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0704-binary-search) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -53,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
