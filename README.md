@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
