@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mohd-Feroz-8624/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohd-Feroz-8624/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Feroz-8624/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohd-Feroz-8624/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
